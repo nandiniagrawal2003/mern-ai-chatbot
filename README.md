@@ -34,7 +34,7 @@ This is a full-stack AI Chatbot application built using the MERN stack. The fron
 *The interactive AI Chatbot interface where users can chat with the AI.*
 
 ### 4. Database Storage
-![Database](/screenshots/gpt page.png)
+![Database](./screenshots/gpt page.png)
 *An overview of where the user data and chat logs are stored in MongoDB.*
 
 ## **Installation**
