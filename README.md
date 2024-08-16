@@ -30,7 +30,7 @@ This is a full-stack AI Chatbot application built using the MERN stack. The fron
 *The page where users can log in or sign up to access the chatbot.*
 
 ### 3. AI Chatbot Page
-![AI Chatbot Page](./screenshots/chatbot.png)
+![AI Chatbot Page](./Frontend/screenshots/database.png)
 *The interactive AI Chatbot interface where users can chat with the AI.*
 
 ### 4. Database Storage
