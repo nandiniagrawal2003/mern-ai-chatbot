@@ -49,14 +49,15 @@ This is a full-stack AI Chatbot application built using the MERN stack. The fron
 2. Navigate to the backend directory and install the required dependencies:
 
    \`\`\`bash
-   cd backend
+   cd ./backend
+   
    npm install
    \`\`\`
 
-3. Navigate to the frontend directory and install the required dependencies:
+4. Navigate to the frontend directory and install the required dependencies:
 
    \`\`\`bash
-   cd ../frontend
+   cd ./frontend
    npm install
    \`\`\`
 
