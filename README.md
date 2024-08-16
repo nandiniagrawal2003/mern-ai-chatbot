@@ -42,7 +42,7 @@ This is a full-stack AI Chatbot application built using the MERN stack. The fron
 1. Clone the repository:
 
    \`\`\`bash
-   git clone https://github.com/your-username/mern-ai-chatbot.git
+   git clone https://github.com/nandiniagrawal2003/mern-ai-chatbot.git
    cd mern-ai-chatbot
    \`\`\`
 
@@ -87,7 +87,7 @@ This is a full-stack AI Chatbot application built using the MERN stack. The fron
 - **Frontend**: React.js
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
-- **AI**: [Your AI/ML Model or API service]
+- **API**: Open AI 
 
 ## **Database**
 
