@@ -22,19 +22,19 @@ This is a full-stack AI Chatbot application built using the MERN stack. The fron
 ## **Screenshots**
 
 ### 1. Home Page
-![Home Page](./screenshots/homepage.png)
+![Home Page](./Frontend/screenshots/home.png)
 *The main landing page of the AI Chatbot application.*
 
 ### 2. Login & Sign Up Page
-![Login & Sign Up Page](./screenshots/login_signup.png)
+![Login & Sign Up Page](./Frontend/screenshots/dsignup.png)
 *The page where users can log in or sign up to access the chatbot.*
 
 ### 3. AI Chatbot Page
-![AI Chatbot Page](./Frontend/screenshots/database.png)
+![AI Chatbot Page](./Frontend/screenshots/gptpage.png)
 *The interactive AI Chatbot interface where users can chat with the AI.*
 
 ### 4. Database Storage
-![Database](./screenshots/gpt page.png)
+![Database](./Frontend/screenshots/database.png)
 *An overview of where the user data and chat logs are stored in MongoDB.*
 
 ## **Installation**
