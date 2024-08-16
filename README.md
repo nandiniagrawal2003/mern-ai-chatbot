@@ -1,3 +1,4 @@
+
 # **MERN AI Chatbot**
 
 This is a full-stack AI Chatbot application built using the MERN stack. The frontend is developed with React.js, and the backend is powered by Node.js. The application allows users to sign up, log in, and interact with an AI-powered chatbot.
@@ -40,6 +41,62 @@ This is a full-stack AI Chatbot application built using the MERN stack. The fron
 
 1. Clone the repository:
 
-   ```bash
+   \`\`\`bash
    git clone https://github.com/your-username/mern-ai-chatbot.git
    cd mern-ai-chatbot
+   \`\`\`
+
+2. Navigate to the backend directory and install the required dependencies:
+
+   \`\`\`bash
+   cd backend
+   npm install
+   \`\`\`
+
+3. Navigate to the frontend directory and install the required dependencies:
+
+   \`\`\`bash
+   cd ../frontend
+   npm install
+   \`\`\`
+
+## **Usage**
+
+1. Start the backend server:
+
+   \`\`\`bash
+   cd backend
+   npm run dev
+   \`\`\`
+
+   The backend will run on \`http://localhost:5000\`.
+
+2. In a new terminal, start the frontend server:
+
+   \`\`\`bash
+   cd frontend
+   npm run dev
+   \`\`\`
+
+   The frontend will run on \`http://localhost:5173\`.
+
+3. Open your browser and go to \`http://localhost:5173\` to view the application.
+
+## **Technologies Used**
+
+- **Frontend**: React.js
+- **Backend**: Node.js, Express.js
+- **Database**: MongoDB
+- **AI**: [Your AI/ML Model or API service]
+
+## **Database**
+
+The application uses MongoDB to store user data and chat logs. Ensure that your MongoDB service is running and properly configured in your backend.
+
+## **Contributing**
+
+Contributions are welcome! Please fork the repository and create a pull request with your changes.
+
+## **License**
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
